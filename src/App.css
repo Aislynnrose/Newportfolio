@@ -23,6 +23,15 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.photo {
+  height: 1000px;
+  width: 800px;
+}
+
+.portfolioPhoto {
+  height:800;
+  width: 800px;
+}
 
 .App-link {
   color: #61dafb;
